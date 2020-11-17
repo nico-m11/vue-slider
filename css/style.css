@@ -16,3 +16,9 @@ img {
   margin-top: 200px;
   margin-left: 20px;
 }
+
+.sel-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}

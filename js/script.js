@@ -9,7 +9,7 @@ const app = new Vue ({
 },
   methods: {
     prevClick: function() {
-      if (this.indiceCorrente !=0) {
+      if (this.indiceCorrente != 0) {
         this.indiceCorrente--;
       } else {
         this.indiceCorrente = this.immagini.length -1;
